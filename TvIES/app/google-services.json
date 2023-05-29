@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213537129480",
+    "project_id": "tvies-34fd8",
+    "storage_bucket": "tvies-34fd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213537129480:android:724171b650d180bd5efdbd",
+        "android_client_info": {
+          "package_name": "com.example.tvies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMsq_Fjw4Auoi24dilCHakG9eM4St57VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

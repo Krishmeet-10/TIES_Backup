@@ -8,6 +8,9 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
 import com.google.firebase.auth.FirebaseAuth
+import com.google.firebase.database.DatabaseReference
+import com.google.firebase.database.ktx.database
+import com.google.firebase.ktx.Firebase
 
 class LogInActivity : AppCompatActivity() {
 
@@ -31,6 +34,8 @@ class LogInActivity : AppCompatActivity() {
 //            val intent = Intent(this, MainActivity::class.java)
 //            startActivity(intent)
 //        }
+
+
 
         signup_btn = findViewById(R.id.button2)
         Email = findViewById(R.id.email_login_txt)
